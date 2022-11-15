@@ -20,7 +20,7 @@ h1, h2 {
     text-align: center;
 }
 .img {
-    background-image: url("/prework-study-guide/assets/spOOky-color.png");
+    background-image: url("spOOky-color.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
